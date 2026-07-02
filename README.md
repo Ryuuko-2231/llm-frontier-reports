@@ -1,9 +1,9 @@
 # LLM Frontier Reports
 
-This private repository stores generated daily reports from `llm-frontier-tracker`.
+This public repository stores generated daily reports from an automated LLM frontier tracking workflow.
 
 ## Layout
 
 - `daily/YYYY/YYYY-MM-DD.md`: daily LLM frontier tracking reports.
 
-The report generator lives in `Ryuuko-2231/llm-frontier-tracker`.
+Reports are generated automatically and pushed here for public reading and archival.
